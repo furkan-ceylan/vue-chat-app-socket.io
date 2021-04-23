@@ -1,4 +1,5 @@
-# vuechat
+# Vue Chat App with Socket.io
+
 
 ## Project setup
 ```
