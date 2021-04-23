@@ -2,7 +2,7 @@
 Group chat app in Vue.js with socket.io. When you log in, a login page appears. here he asks you to write a name. After you have entered your name, you must click the login button. You will see active users on the left and a section on the right where everyone can chat as a group.
 
 
-## Project setup
+## Project setup(Main file and server file)
 ```
 npm install
 ```
@@ -20,6 +20,11 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
+```
+
+### In Server file for starting a server in local
+```
+npm start
 ```
 
 ### Customize configuration
