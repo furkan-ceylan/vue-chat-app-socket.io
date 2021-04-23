@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Public Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://fonts.gstatic.com/s/publicsans/v5/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuFpm5ww.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Public Sans';
+  font-style: normal;
+  font-weight: 500;
+  src: url(https://fonts.gstatic.com/s/publicsans/v5/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuJJm5ww.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Public Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: url(https://fonts.gstatic.com/s/publicsans/v5/ijwGs572Xtc6ZYQws9YVwllKVG8qX1oyOymuyJ65ww.ttf) format('truetype');
+}
